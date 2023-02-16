@@ -1330,7 +1330,7 @@
     <TIT>
      <RSMPE_TITT>
       <CODE>STATUS010</CODE>
-      <TEXT>ABAP SQL Editor</TEXT>
+      <TEXT>SQL Editor</TEXT>
      </RSMPE_TITT>
      <RSMPE_TITT>
       <CODE>STATUS200</CODE>
