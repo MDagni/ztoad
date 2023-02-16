@@ -6,7 +6,7 @@
     <TABNAME>ZTOAD</TABNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <TABCLASS>TRANSP</TABCLASS>
-    <DDTEXT>ZTOAD</DDTEXT>
+    <DDTEXT>ZTOAD - Saved queries</DDTEXT>
     <CONTFLAG>A</CONTFLAG>
    </DD02V>
    <DD09L>
@@ -45,6 +45,7 @@
      <DATATYPE>CHAR</DATATYPE>
      <LENG>000001</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Visibility (0:owner, 1:usergroup, 2:all)</DDTEXT>
     </DD03P>
     <DD03P>
      <FIELDNAME>VISIBILITY_GROUP</FIELDNAME>
@@ -60,6 +61,7 @@
      <DATATYPE>CHAR</DATATYPE>
      <LENG>000030</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Description of the query</DDTEXT>
     </DD03P>
     <DD03P>
      <FIELDNAME>QUERY</FIELDNAME>
@@ -68,6 +70,7 @@
      <INTLEN>000008</INTLEN>
      <DATATYPE>STRG</DATATYPE>
      <MASK>  STRG</MASK>
+     <DDTEXT>Query</DDTEXT>
     </DD03P>
    </DD03P_TABLE>
   </asx:values>
