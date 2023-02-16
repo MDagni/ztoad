@@ -2,6 +2,8 @@
 
 This is a fork of S.Hermann's ZTOAD git project. Original can be found at: [https://github.com/marianfoo/ztoad](https://github.com/marianfoo/ztoad)
 
+SAP Blog: [ZTOAD – Open SQL editor](https://blogs.sap.com/2015/08/03/ztoad-open-sql-editor)
+
 ## Overview
 
 Open SQL Editor
@@ -17,7 +19,7 @@ The original ZTOAD version is available as a [SAPlink nugget](http://quelquepart
 
 This version can easily be installed on a SAP System with [abapGit](https://github.com/larshp/abapGit).
 
-![image](https://user-images.githubusercontent.com/13335743/155726476-0145978c-539d-4408-a22b-3a41b7b7ac6f.png)
+![image](http://quelquepart.biz/data/images/ztoad/ztoad.png)
 
 ## Description
 
